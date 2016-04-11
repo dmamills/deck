@@ -6,7 +6,7 @@ A very simple playing card deck implementation in js
 
 ### usage
 
-```
+```javascript
 const Deck = require('deck-js');
 
 let deck = new Deck();
