@@ -1,5 +1,7 @@
 # deck
 
+[![codecov.io](https://codecov.io/github/dmamills/deck/coverage.svg?branch=master)](https://codecov.io/github/dmamills/deck?branch=master) [![Build Status](https://travis-ci.org/dmamills/deck.svg?branch=master)](https://travis-ci.org/dmamills/deck)
+
 A very simple playing card deck implementation in js
 
 ### usage
