@@ -24,7 +24,7 @@ let card = new Card('2', 'H');
 
 card.getRank() //'2'
 card.getSuit() //'H'
-card.getValue //'2 of Hearts'
+card.getValue() //'2 of Hearts'
 ```
 
 ### license
